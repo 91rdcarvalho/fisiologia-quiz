@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Fisiologia Quiz</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Arial; max-width: 900px; margin: 24px auto; padding: 0 16px; }
+    .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin-top: 16px; }
+    .tag { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 12px; border: 1px solid #ccc; }
+    button { padding: 10px 14px; border-radius: 10px; border: 1px solid #ccc; background: #fff; cursor: pointer; }
+    button.primary { background: #111; color: #fff; border-color: #111; }
+    .opts { margin-top: 12px; display: grid; gap: 10px; }
+    .opt { text-align: left; width: 100%; }
+    .muted { color: #555; }
+    .result { margin-top: 12px; padding: 12px; border-radius: 10px; background: #f7f7f7; }
+  </style>
+</head>
+<body>
+  <h1>Fisiologia Quiz</h1>
+
+  <div class="card">
+    <div class="row">
+      <label>Mode:</label>
+      <select id="mode">
+        <option value="exam">Exam only</option>
+        <option value="mixed" selected>Training (mixed)</option>
+        <option value="chatgpt">ChatGPT only</option>
+      </select>
+
+      <label># Questions:</label>
+      <select id="n">
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+        <option value="all">All</option>
+      </select>
+
+      <button class="primary" id="start">Start</button>
+      <span class="muted" id="stats"></span>
+    </div>
+  </div>
+
+  <div class="card" id="quiz" style="display:none;">
+    <div class="row" style="justify-content: space-between;">
+      <div>
+        <span class="tag" id="sourceTag"></span>
+        <span class="muted" id="progress"></span>
+      </div>
+      <div class="muted" id="score"></div>
+    </div>
+
+    <h2 id="questionText" style="margin-top: 10px;"></h2>
+    <div class="opts" id="options"></div>
+
+    <div class="result" id="result" style="display:none;"></div>
+
+    <div class="row" style="margin-top: 14px;">
+      <button id="next" disabled>Next</button>
+      <button id="quit">Quit</button>
+    </div>
+  </div>
+
+<script>
+  let QUESTIONS = {};
+  let ANSWERS = {};
+
+  const normSource = (s) => {
+    const low = (s || "").toLowerCase();
+    if (low.includes("chatgpt") || low.includes("gpt")) return "ChatGPT";
+    if (low.includes("frequ") || low.includes("exame") || low.includes("exam") || low.includes("prova")) return "Exam";
+    return "Exam";
+  };
+
+  let ids = [];
+  let idx = 0;
+  let score = 0;
+  let answered = 0;
+
+  async function loadData() {
+    QUESTIONS = await fetch("data/questions.json").then(r => r.json());
+    ANSWERS = await fetch("data/answers.json").then(r => r.json());
+
+    const qids = Object.keys(QUESTIONS).map(Number).filter(id => ANSWERS[id]);
+    const exam = qids.filter(id => normSource(QUESTIONS[id].source) === "Exam").length;
+    const chat = qids.filter(id => normSource(QUESTIONS[id].source) === "ChatGPT").length;
+    document.getElementById("stats").textContent = `Available: ${qids.length} (Exam: ${exam}, ChatGPT: ${chat})`;
+  }
+
+  function filterIds(mode) {
+    const qids = Object.keys(QUESTIONS).map(Number).filter(id => ANSWERS[id]);
+    if (mode === "mixed") return qids;
+    if (mode === "exam") return qids.filter(id => normSource(QUESTIONS[id].source) === "Exam");
+    if (mode === "chatgpt") return qids.filter(id => normSource(QUESTIONS[id].source) === "ChatGPT");
+    return qids;
+  }
+
+  function pickN(arr, n) {
+    if (n === "all") return [...arr];
+    const k = Math.max(1, Math.min(parseInt(n, 10), arr.length));
+    const copy = [...arr];
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy.slice(0, k);
+  }
+
+  function renderQuestion() {
+    const qid = ids[idx];
+    const q = QUESTIONS[qid];
+    const a = ANSWERS[qid];
+
+    const label = normSource(q.source) === "Exam" ? "Frequência" : "ChatGPT";
+    document.getElementById("sourceTag").textContent = label;
+    document.getElementById("progress").textContent = `Question ${idx+1}/${ids.length} (ID ${qid})`;
+    document.getElementById("score").textContent = `Score: ${score}/${answered}`;
+
+    document.getElementById("questionText").textContent = q.question;
+
+    const optsDiv = document.getElementById("options");
+    optsDiv.innerHTML = "";
+
+    ["A","B","C","D","E"].forEach(L => {
+      const text = (q.options && q.options[L]) ? q.options[L].trim() : "";
+      if (!text) return;
+      const btn = document.createElement("button");
+      btn.className = "opt";
+      btn.textContent = `${L}) ${text}`;
+      btn.onclick = () => submitAnswer(qid, L);
+      optsDiv.appendChild(btn);
+    });
+
+    document.getElementById("result").style.display = "none";
+    document.getElementById("result").innerHTML = "";
+    document.getElementById("next").disabled = true;
+  }
+
+  function submitAnswer(qid, letter) {
+    [...document.querySelectorAll(".opt")].forEach(b => b.disabled = true);
+
+    const res = ANSWERS[qid];
+    answered += 1;
+    const ok = (letter === res.correct);
+    if (ok) score += 1;
+
+    const box = document.getElementById("result");
+    box.style.display = "block";
+    box.innerHTML = `
+      <b>${ok ? "✅ Correct" : "❌ Incorrect"}</b><br/>
+      Correct answer: <b>${res.correct}</b><br/>
+      <span class="muted">${res.explanation || ""}</span>
+    `;
+
+    document.getElementById("score").textContent = `Score: ${score}/${answered}`;
+    document.getElementById("next").disabled = false;
+  }
+
+  function nextQuestion() {
+    idx += 1;
+    if (idx >= ids.length) {
+      alert(`Finished! Score: ${score}/${answered}`);
+      document.getElementById("quiz").style.display = "none";
+      return;
+    }
+    renderQuestion();
+  }
+
+  document.getElementById("start").onclick = () => {
+    const mode = document.getElementById("mode").value;
+    const n = document.getElementById("n").value;
+    const pool = filterIds(mode);
+    if (!pool.length) { alert("No questions for this mode."); return; }
+
+    ids = pickN(pool, n);
+    idx = 0; score = 0; answered = 0;
+    document.getElementById("quiz").style.display = "block";
+    renderQuestion();
+  };
+
+  document.getElementById("next").onclick = nextQuestion;
+  document.getElementById("quit").onclick = () => document.getElementById("quiz").style.display = "none";
+
+  loadData();
+</script>
+</body>
+</html>

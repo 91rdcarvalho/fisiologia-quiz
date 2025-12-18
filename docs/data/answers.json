@@ -1,0 +1,342 @@
+{
+  "1": {
+    "correct": "C",
+    "explanation": "A replicação é semi-conservativa porque cada nova molécula de DNA mantém uma cadeia parental e sintetiza uma nova."
+  },
+  "2": {
+    "correct": "C",
+    "explanation": "Os filamentos intermédios têm um diâmetro intermédio entre microfilamentos e microtúbulos."
+  },
+  "3": {
+    "correct": "C",
+    "explanation": "Pais B Rh+ podem ter filhos B Rh− e numa primeira transfusão Rh− não há reação significativa."
+  },
+  "4": {
+    "correct": "B",
+    "explanation": "Na transcrição são produzidos vários tipos de RNA (mRNA, tRNA, rRNA)."
+  },
+  "5": {
+    "correct": "E",
+    "explanation": "Os proto-oncogenes podem participar em proliferação, fatores de crescimento e transdução de sinal."
+  },
+  "6": {
+    "correct": "E",
+    "explanation": "O processamento do mRNA inclui capping, splicing e outras modificações."
+  },
+  "7": {
+    "correct": "B",
+    "explanation": "Uma mutação neutra altera o aminoácido mas não afeta a função da proteína."
+  },
+  "8": {
+    "correct": "C",
+    "explanation": "Pais com alelo O podem originar filhos dos grupos A e O."
+  },
+  "9": {
+    "correct": "E",
+    "explanation": "A tradução não ocorre sempre associada ao retículo endoplasmático rugoso."
+  },
+  "10": {
+    "correct": "B",
+    "explanation": "O transporte ativo secundário usa o gradiente de outra substância como fonte de energia."
+  },
+  "11": {
+    "correct": "C",
+    "explanation": "Uma solução hipotónica provoca entrada de água nos eritrócitos e risco de hemólise."
+  },
+  "12": {
+    "correct": "D",
+    "explanation": "O aumento da temperatura aumenta a fluidez da membrana."
+  },
+  "13": {
+    "correct": "D",
+    "explanation": "A célula resultante da fertilização é geneticamente distinta dos gâmetas."
+  },
+  "14": {
+    "correct": "B",
+    "explanation": "A consanguinidade aumenta a probabilidade de expressão de características recessivas."
+  },
+  "15": {
+    "correct": "B",
+    "explanation": "A segregação aleatória dos cromossomas homólogos contribui para diversidade genética."
+  },
+  "16": {
+    "correct": "E",
+    "explanation": "Na divisão celular participam microtúbulos (fuso) e microfilamentos (citocinese)."
+  },
+  "17": {
+    "correct": "E",
+    "explanation": "Em G2, prófase e metáfase os cromossomas têm dois cromatídeos."
+  },
+  "18": {
+    "correct": "A",
+    "explanation": "A mitose produz células geneticamente idênticas."
+  },
+  "19": {
+    "correct": "D",
+    "explanation": "O complexo de Golgi não é uma continuidade da membrana nuclear externa."
+  },
+  "20": {
+    "correct": "B",
+    "explanation": "O cruzamento Nn × Nn origina NN, Nn e nn na proporção 1:2:1."
+  },
+  "21": {
+    "correct": "D",
+    "explanation": "Os lisossomas possuem bombas de protões que mantêm um pH ácido interno."
+  },
+  "22": {
+    "correct": "E",
+    "explanation": "Quando a expressão depende da origem parental trata-se de imprinting genómico."
+  },
+  "23": {
+    "correct": "A",
+    "explanation": "A matriz extracelular influencia a expressão genética através de sinalização celular."
+  },
+  "24": {
+    "correct": "C",
+    "explanation": "O modelo two-hit envolve perda de heterozigotia em genes supressores de tumor."
+  },
+  "25": {
+    "correct": "A",
+    "explanation": "A inativação do X explica o mosaicismo observado nas mulheres."
+  },
+  "26": {
+    "correct": "E",
+    "explanation": "Nas células tumorais os mecanismos de controlo do ciclo celular estão alterados."
+  },
+  "27": {
+    "correct": "E",
+    "explanation": "47, XX, +3 indica um indivíduo do sexo feminino."
+  },
+  "28": {
+    "correct": "E",
+    "explanation": "O tipo de reprodução não é comum a todos os seres vivos."
+  },
+  "29": {
+    "correct": "A",
+    "explanation": "As expansões de tripletos são mutações dinâmicas."
+  },
+  "30": {
+    "correct": "C",
+    "explanation": "Proteoglicanos são componentes típicos da matriz extracelular."
+  },
+  "31": {
+    "correct": "B",
+    "explanation": "Segundo a teoria endossimbiótica, as mitocôndrias resultaram dessa associação."
+  },
+  "32": {
+    "correct": "D",
+    "explanation": "Numa doença dominante ligada ao X, uma mulher pode herdar a mutação do pai ou da mãe."
+  },
+  "33": {
+    "correct": "C",
+    "explanation": "A DNA polimerase não consegue iniciar cadeias sem primers."
+  },
+  "34": {
+    "correct": "B",
+    "explanation": "A frase descreve o fluxo da informação genética (dogma central)."
+  },
+  "35": {
+    "correct": "A",
+    "explanation": "As síndromes de quebras cromossómicas relacionam-se com defeitos na reparação do DNA."
+  },
+  "101": {
+    "correct": "D",
+    "explanation": "A DNA polimerase só consegue sintetizar DNA no sentido 5'→3', originando fragmentos de Okazaki."
+  },
+  "102": {
+    "correct": "C",
+    "explanation": "Na transcrição, o DNA é o molde para síntese de RNA."
+  },
+  "103": {
+    "correct": "B",
+    "explanation": "Os microtúbulos formam o fuso mitótico durante a divisão celular."
+  },
+  "104": {
+    "correct": "C",
+    "explanation": "Ácidos gordos mais longos tornam a membrana mais rígida."
+  },
+  "105": {
+    "correct": "C",
+    "explanation": "A primase sintetiza primers necessários para iniciar a replicação."
+  },
+  "106": {
+    "correct": "C",
+    "explanation": "A difusão simples ocorre a favor do gradiente sem gasto energético."
+  },
+  "107": {
+    "correct": "D",
+    "explanation": "A replicação do DNA ocorre durante a fase S da interfase."
+  },
+  "108": {
+    "correct": "B",
+    "explanation": "Os microfilamentos de actina participam na divisão do citoplasma."
+  },
+  "109": {
+    "correct": "A",
+    "explanation": "O mRNA maduro resulta da remoção dos intrões."
+  },
+  "110": {
+    "correct": "C",
+    "explanation": "O colesterol impede a cristalização da membrana a baixas temperaturas."
+  },
+  "111": {
+    "correct": "B",
+    "explanation": "O cruzamento IAi × IAi origina ii (grupo O) em 25% dos casos."
+  },
+  "112": {
+    "correct": "C",
+    "explanation": "As mutações nonsense introduzem um codão de terminação prematuro."
+  },
+  "113": {
+    "correct": "C",
+    "explanation": "Na meiose ocorre sinapse entre cromossomas homólogos."
+  },
+  "114": {
+    "correct": "C",
+    "explanation": "A inativação do X é aleatória em células somáticas femininas."
+  },
+  "115": {
+    "correct": "C",
+    "explanation": "Genes supressores de tumor travam o ciclo celular quando há danos."
+  },
+  "116": {
+    "correct": "C",
+    "explanation": "O fator Rh negativo corresponde à ausência do antigénio D."
+  },
+  "117": {
+    "correct": "C",
+    "explanation": "O crossing-over ocorre na prófase I da meiose."
+  },
+  "118": {
+    "correct": "C",
+    "explanation": "O código genético degenerado permite mutações sem alteração do aminoácido."
+  },
+  "119": {
+    "correct": "B",
+    "explanation": "No imprinting, a expressão génica depende do progenitor de origem."
+  },
+  "120": {
+    "correct": "B",
+    "explanation": "A perda de heterozigotia elimina a função protetora de genes supressores."
+  },
+  "121": {
+    "correct": "B",
+    "explanation": "Os lisossomas são responsáveis pela digestão intracelular."
+  },
+  "122": {
+    "correct": "C",
+    "explanation": "O Golgi modifica e direciona proteínas após a tradução."
+  },
+  "123": {
+    "correct": "A",
+    "explanation": "A dupla membrana sugere incorporação por endocitose."
+  },
+  "124": {
+    "correct": "B",
+    "explanation": "A matriz extracelular influencia o comportamento e expressão génica das células."
+  },
+  "125": {
+    "correct": "C",
+    "explanation": "As integrinas transmitem sinais entre a matriz e o interior da célula."
+  },
+  "126": {
+    "correct": "C",
+    "explanation": "Proteínas são transportadas entre compartimentos por vesículas."
+  },
+  "127": {
+    "correct": "B",
+    "explanation": "Na exocitose, vesículas fundem-se com a membrana plasmática."
+  },
+  "128": {
+    "correct": "C",
+    "explanation": "A composição dos fosfolípidos afeta a fluidez da membrana."
+  },
+  "129": {
+    "correct": "C",
+    "explanation": "Glicoproteínas são essenciais no reconhecimento célula–célula."
+  },
+  "130": {
+    "correct": "D",
+    "explanation": "Os ribossomas sintetizam proteínas, mas não as transportam."
+  },
+  "131": {
+    "correct": "C",
+    "explanation": "A bomba Na+/K+ utiliza ATP diretamente."
+  },
+  "132": {
+    "correct": "C",
+    "explanation": "Recetores ativam vias de sinalização no citoplasma."
+  },
+  "133": {
+    "correct": "C",
+    "explanation": "Filamentos intermédios aumentam a resistência estrutural."
+  },
+  "134": {
+    "correct": "C",
+    "explanation": "Ciclinas e CDKs controlam checkpoints do ciclo celular."
+  },
+  "135": {
+    "correct": "D",
+    "explanation": "A sinapse de homólogos é exclusiva da meiose."
+  },
+  "136": {
+    "correct": "C",
+    "explanation": "Checkpoints defeituosos permitem divisão com danos no DNA."
+  },
+  "137": {
+    "correct": "C",
+    "explanation": "No antiporte, substâncias movem-se em sentidos opostos."
+  },
+  "138": {
+    "correct": "B",
+    "explanation": "A fosforilação regula a atividade das proteínas sinalizadoras."
+  },
+  "139": {
+    "correct": "C",
+    "explanation": "A actina é essencial na contração e divisão celular."
+  },
+  "140": {
+    "correct": "C",
+    "explanation": "Células tumorais perdem o controlo normal da divisão celular."
+  },
+  "141": {
+    "correct": "C",
+    "explanation": "A mutação missense altera o aminoácido, mas não interrompe a tradução."
+  },
+  "142": {
+    "correct": "C",
+    "explanation": "A degenerescência do código permite redundância de codões."
+  },
+  "143": {
+    "correct": "D",
+    "explanation": "Mitocôndrias não se originam do retículo endoplasmático."
+  },
+  "144": {
+    "correct": "C",
+    "explanation": "Os homens expressam o alelo recessivo por possuírem apenas um X."
+  },
+  "145": {
+    "correct": "D",
+    "explanation": "Mutações somáticas não são herdadas."
+  },
+  "146": {
+    "correct": "C",
+    "explanation": "Devido à degenerescência do código genético."
+  },
+  "147": {
+    "correct": "C",
+    "explanation": "Falhas na reparação acumulam mutações no genoma."
+  },
+  "148": {
+    "correct": "B",
+    "explanation": "Basta um alelo dominante para a manifestação."
+  },
+  "149": {
+    "correct": "C",
+    "explanation": "A segregação independente ocorre durante a meiose."
+  },
+  "150": {
+    "correct": "C",
+    "explanation": "Oncogenes promovem crescimento e divisão celular."
+  }
+}

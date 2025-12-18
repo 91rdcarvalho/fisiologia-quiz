@@ -1,0 +1,1022 @@
+{
+  "1": {
+    "id": 1,
+    "source": "Frequência",
+    "question": "Dizemos que a replicação do DNA é semi-conservativa porque:",
+    "options": {
+      "A": "apenas é conservado o DNA dos exões – sequências codificantes",
+      "B": "os intrões, e apenas estes, são conservados",
+      "C": "nas moléculas sintetizadas uma cadeia pertence à molécula \"mãe\" e a outra é sintetizada de novo",
+      "D": "só se conserva uma parte da molécula original para que possa haver evolução",
+      "E": "ocorrem mutações que não conseguem ser todas corrigidas"
+    }
+  },
+  "2": {
+    "id": 2,
+    "source": "Frequência",
+    "question": "Os filamentos intermédios:",
+    "options": {
+      "A": "são polarizados",
+      "B": "são formados por um único tipo de proteína",
+      "C": "apresentam um diâmetro intermédio entre os microfilamentos e os microtúbulos",
+      "D": "distribuem-se essencialmente na zona apical das células",
+      "E": "todas as anteriores"
+    }
+  },
+  "3": {
+    "id": 3,
+    "source": "Frequência",
+    "question": "Imagine a seguinte situação: havendo falta de sangue para transfusão, um casal, ambos do grupo sanguíneo B, Rh+, dispõe-se a doar o seu sangue a um dos seus filhos. Concorda?",
+    "options": {
+      "A": "sim, porque o filho será obrigatoriamente B, Rh+",
+      "B": "sim, porque o filho será obrigatoriamente B, não sendo importante o Rh",
+      "C": "sim, porque o filho será obrigatoriamente B e, mesmo que seja Rh-, numa primeira transfusão não há\nproblema de maior",
+      "D": "não, porque o filho pode ser do grupo O e ter uma reação transfusional",
+      "E": "não, porque o filho pode ser do grupo AB e ter uma reação transfusional"
+    }
+  },
+  "4": {
+    "id": 4,
+    "source": "Frequência",
+    "question": "Relativamente à transcrição:",
+    "options": {
+      "A": "estão envolvidas diversas DNA polimerases",
+      "B": "são sintetizados diversos tipos de RNA",
+      "C": "as duas cadeias de DNA são simultaneamente transcritas",
+      "D": "são necessários ribossomas",
+      "E": "ocorre no citoplasma"
+    }
+  },
+  "5": {
+    "id": 5,
+    "source": "Frequência",
+    "question": "Os (proto)oncogenes podem estar envolvidos:",
+    "options": {
+      "A": "na estimulação da divisão celular",
+      "B": "na indução da morte celular",
+      "C": "na codificação de fatores de crescimento",
+      "D": "na codificação de proteínas transdutoras de sinal",
+      "E": "em todas as situações anteriores"
+    }
+  },
+  "6": {
+    "id": 6,
+    "source": "Frequência",
+    "question": "O processamento dos mRNA inclui:",
+    "options": {
+      "A": "3’ capping",
+      "B": "alteração de bases azotadas",
+      "C": "corte de um precursor maior em moléculas de RNA menores",
+      "D": "remoção de intrões",
+      "E": "todas as anteriores"
+    }
+  },
+  "7": {
+    "id": 7,
+    "source": "Frequência",
+    "question": "Relativamente aos efeitos de uma mutação neutra numa proteína:",
+    "options": {
+      "A": "não há alteração do aminoácido",
+      "B": "há alteração do aminoácido, mas sem efeitos na função",
+      "C": "há alteração do aminoácido, mas sem efeitos no local ativo",
+      "D": "não há alteração do aminoácido porque não se altera o codão do mRNA",
+      "E": "há alteração do aminoácido, terminando a tradução prematuramente"
+    }
+  },
+  "8": {
+    "id": 8,
+    "source": "Frequência",
+    "question": "Maria adotou 2 crianças, supostamente gémeas dizigóticas. Quando foi feita a determinação do grupo sanguíneo das meninas, verificou-se que Ângela - grupo A, Rh negativo e Olívia - grupo O, Rh negativo. É possível que as duas sejam efetivamente irmãs?",
+    "options": {
+      "A": "não, porque têm grupos sanguíneos ABO diferentes",
+      "B": "Sim, porque são ambas Rh negativo e os indivíduos O são dadores universais",
+      "C": "Sim, se ambos os progenitores de Ângela e Olívia tiverem um alelo O",
+      "D": "Não, porque é impossível os mesmos pais terem um filho do grupo A e outro do grupo O",
+      "E": "sim, se um dos progenitores de Ângela e Olívia for AB e o outro do grupo OO"
+    }
+  },
+  "9": {
+    "id": 9,
+    "source": "Frequência",
+    "question": "Relativamente à tradução, assinale a afirmação falsa:",
+    "options": {
+      "A": "o anticodão do tRNA reconhece o respetivo codão no mRNA",
+      "B": "Enzimas específicas ligam o aminoácido do tRNA com o anticodão correspondente",
+      "C": "as enzimas responsáveis pela ligação peptídica encontram-se nos ribossomas",
+      "D": "o mRNA liga-se à subunidade menor dos ribossomas",
+      "E": "ocorre sempre associada ao retículo endoplasmático rugoso"
+    }
+  },
+  "10": {
+    "id": 10,
+    "source": "Frequência",
+    "question": "Um tipo de transporte transmembranar que ocorre contra o gradiente de concentração e que usa como forma de energia o cotransporte de outra substância a favor do seu gradiente denomina-se",
+    "options": {
+      "A": "transporte ativo primário",
+      "B": "transporte ativo secundário",
+      "C": "difusão facilitada",
+      "D": "difusão simples",
+      "E": "simporte"
+    }
+  },
+  "11": {
+    "id": 11,
+    "source": "Frequência",
+    "question": "Imagine que, por engano, um enfermeiro aplicava a um doente, em vez de soro fisiológico, um\npreparado farmacêutico com uma concentração osmoticamente muito inferior à do sangue. O que poderia acontecer?",
+    "options": {
+      "A": "Nada, o nosso sangue é essencialmente constituído por água",
+      "B": "Nada, o sangue ficaria apenas mais diluído",
+      "C": "Haveria o perigo de hemólise, por entrada de água nos eritrócitos",
+      "D": "Haveria o perigo de hemólise, por saída de água dos eritrócitos",
+      "E": "Os eritrócitos poderiam ficar crenados/plasmolisados e, portanto, não funcionais"
+    }
+  },
+  "12": {
+    "id": 12,
+    "source": "Frequência",
+    "question": "A fluidez das membranas é muito importante para a sua função. Esta fluidez aumenta à medida que:",
+    "options": {
+      "A": "aumenta o comprimento dos ácidos gordos",
+      "B": "aumenta o grau de saturação dos ácidos gordos",
+      "C": "diminui a temperatura",
+      "D": "aumenta a temperatura",
+      "E": "diminui o grau de glicosilação"
+    }
+  },
+  "13": {
+    "id": 13,
+    "source": "Frequência",
+    "question": "Na fertilização:",
+    "options": {
+      "A": "a célula resultante mantém-se haplóide",
+      "B": "o óvulo, por ser maior, contribui com a maioria dos cromossomas",
+      "C": "ocorre recombinação homóloga",
+      "D": "a célula resultante é distinta das que lhe deram origem",
+      "E": "a polispermia é impedida por alterações na zona pelúcida do espermatozóide"
+    }
+  },
+  "14": {
+    "id": 14,
+    "source": "Frequência",
+    "question": "A consanguinidade é um fator particularmente importante na análise de situações associadas a:",
+    "options": {
+      "A": "mutações dinâmicas",
+      "B": "transmissão de características recessivas",
+      "C": "alterações cromossómicas",
+      "D": "transmissão mitocondrial",
+      "E": "transmissão ligada ao X"
+    }
+  },
+  "15": {
+    "id": 15,
+    "source": "Frequência",
+    "question": "Contribuem para a diversidade genética dos organismos que se reproduzem sexuadamente:",
+    "options": {
+      "A": "crossing over entre cromossomas não homólogos",
+      "B": "segregação aleatória dos cromossomas homólogos na meiose II",
+      "C": "divisões mitóticas",
+      "D": "replicação semi-conservativa",
+      "E": "todas estão corretas"
+    }
+  },
+  "16": {
+    "id": 16,
+    "source": "Frequência",
+    "question": "O citoesqueleto é um importante elemento na divisão celular. Neste processo (incluindo a citocinese), participam:",
+    "options": {
+      "A": "apenas microtúbulos",
+      "B": "microtúbulos, microfilamentos e filamentos intermédios",
+      "C": "microfilamentos e filamentos intermédios",
+      "D": "apenas microfilamentos",
+      "E": "microtúbulos e microfilamentos"
+    }
+  },
+  "17": {
+    "id": 17,
+    "source": "Frequência",
+    "question": "Em qual das seguintes fases do ciclo celular mitótico um cromossoma é constituído por dois cromatídeos?",
+    "options": {
+      "A": "G2",
+      "B": "prófase",
+      "C": "metáfase",
+      "D": "em b) e c)",
+      "E": "em a), b) e c)"
+    }
+  },
+  "18": {
+    "id": 18,
+    "source": "Frequência",
+    "question": "A divisão mitótica tem como objetivo:",
+    "options": {
+      "A": "a produção de células geneticamente idênticas",
+      "B": "a produção de células haplóides",
+      "C": "a duplicação do nº de cromossomas em cada célula",
+      "D": "a diversidade na constituição dos cromossomas da célula",
+      "E": "a produção de células geneticamente melhoradas"
+    }
+  },
+  "19": {
+    "id": 19,
+    "source": "Frequência",
+    "question": "Assinale a afirmação falsa relativamente ao complexo de Golgi:",
+    "options": {
+      "A": "está envolvido na glicosilação de proteínas e lípidos",
+      "B": "está em íntima associação com o retículo endoplasmático rugoso",
+      "C": "é composto por sáculos e vesículas de composição interna diversa",
+      "D": "representa uma continuidade da membrana nuclear externa",
+      "E": "recebe e produz vesículas importantes no transporte na célula"
+    }
+  },
+  "20": {
+    "id": 20,
+    "source": "Frequência",
+    "question": "Um casal de indivíduos heterozigóticos (Nn) terá uma descendência constituída por:",
+    "options": {
+      "A": "apenas indivíduos Nn",
+      "B": "Indivíduos NN, Nn e nn na proporção de 1:2:1",
+      "C": "Indivíduos NN e Nn na proporção 3:1",
+      "D": "Indivíduos NN e Nn na proporção 2:1",
+      "E": "nenhuma das anteriores está correta"
+    }
+  },
+  "21": {
+    "id": 21,
+    "source": "Frequência",
+    "question": "Relativamente aos lisossomas:",
+    "options": {
+      "A": "estão envolvidos na produção de energia pela célula",
+      "B": "estão envolvidos na modificação pós-traducional de proteínas e lípidos",
+      "C": "formam-se a partir de vesículas contendo recetores e proteoglicanos",
+      "D": "possuem bombas membranares de protões que permitem a manutenção de um pH baixo (ácido) no seu interior",
+      "E": "sintetizam a maioria das substâncias da célula para sua reciclagem"
+    }
+  },
+  "22": {
+    "id": 22,
+    "source": "Frequência",
+    "question": "Quando a expressão dos genes é diferente conforme são herdados do pai ou da mãe estamos perante uma situação de",
+    "options": {
+      "A": "mosaicismo",
+      "B": "quimerismo",
+      "C": "transmissão mitocondrial",
+      "D": "mutação dinâmica",
+      "E": "imprinting genómico"
+    }
+  },
+  "23": {
+    "id": 23,
+    "source": "Frequência",
+    "question": "Em relação à matriz extracelular:",
+    "options": {
+      "A": "pode influenciar a expressão genética",
+      "B": "é essencialmente constituída por proteínas fibrosas e triglicerídeos",
+      "C": "só existe nos tecidos conjuntivos e cartilagens",
+      "D": "é idêntica em todos os tecidos onde existe",
+      "E": "interage diretamente com o núcleo no interior das células"
+    }
+  },
+  "24": {
+    "id": 24,
+    "source": "Frequência",
+    "question": "O modelo \"two-hit\" para o cancro afirma que o risco de desenvolvimento de cancro é maior para quem\nherdou de um progenitor um alelo mutado. Tal acontece porque:",
+    "options": {
+      "A": "Muitos cancros podem ser causados por vírus no nosso genoma",
+      "B": "Todos os cancros resultam de mutações em células da linhagem germinativa",
+      "C": "Há perda de heterozigotia constitucional quando os 2 alelos estão mutados",
+      "D": "Os genes supressores de tumor só estão ativos nalguns tecidos",
+      "E": "Muitos cancros são causados essencialmente por fatores ambientais"
+    }
+  },
+  "25": {
+    "id": 25,
+    "source": "Frequência",
+    "question": "A inativação do cromossoma X:",
+    "options": {
+      "A": "justifica situações de mosaicismo observadas nas mulheres",
+      "B": "Resulta, normalmente, numa situação de trissomia",
+      "C": "Inativa um cromossoma X em toda a sua extensão",
+      "D": "Ocorre só em homens",
+      "E": "Ocorre na adolescência de rapazes e raparigas"
+    }
+  },
+  "26": {
+    "id": 26,
+    "source": "Frequência",
+    "question": "Relativamente às células tumorais:",
+    "options": {
+      "A": "podem estar indevidamente inativados oncogenes",
+      "B": "a telomerase está sempre inativa",
+      "C": "podem estar ativados genes supressores de tumor",
+      "D": "os mecanismos de tradução podem estar inativados",
+      "E": "os mecanismos de regulação do ciclo celular estão alterados"
+    }
+  },
+  "27": {
+    "id": 27,
+    "source": "Frequência",
+    "question": "Relativamente a um indivíduo com o cariótipo 47, XX, +3:",
+    "options": {
+      "A": "É característico de um indivíduo com um par de cromossoma 3 extra",
+      "B": "Indica uma situação de poliploidia",
+      "C": "Indica a posse de mais 3 cromossomas que o normal",
+      "D": "Indica a posse de 3 pares e 1 trio de cromossomas",
+      "E": "Corresponde a um indivíduo do sexo feminino"
+    }
+  },
+  "28": {
+    "id": 28,
+    "source": "Frequência",
+    "question": "Relativamente às características comuns entre os diferentes seres vivos, qual a que não está correta?",
+    "options": {
+      "A": "serem constituídos por células",
+      "B": "código genético",
+      "C": "evolutivamente, derivam dos mesmos ancestrais",
+      "D": "capacidade de replicação",
+      "E": "tipo de reprodução"
+    }
+  },
+  "29": {
+    "id": 29,
+    "source": "Frequência",
+    "question": "As expansões de tripletos estão associadas a",
+    "options": {
+      "A": "Mutações dinâmicas",
+      "B": "Mutações pontuais",
+      "C": "Mutações nas reglões de splicing",
+      "D": "Mutações silenciosas",
+      "E": "Mutações nonsense (sem sentido)"
+    }
+  },
+  "30": {
+    "id": 30,
+    "source": "Frequência",
+    "question": "São componentes da matriz extracelular:",
+    "options": {
+      "A": "actina",
+      "B": "miosina",
+      "C": "proteoglicanos",
+      "D": "filamina",
+      "E": "glicolípidos"
+    }
+  },
+  "31": {
+    "id": 31,
+    "source": "Frequência",
+    "question": "De acordo com a teoria endossimbótica, qual ou quais dos organelos atuais se formaram a partir da\nassociação de 2 tipos de células?",
+    "options": {
+      "A": "mitocôndrias e lisossomas",
+      "B": "mitocôndrias",
+      "C": "núcleo e retículo endoplasmático",
+      "D": "núcleo",
+      "E": "complexo de Golgi e lisossomas"
+    }
+  },
+  "32": {
+    "id": 32,
+    "source": "Frequência",
+    "question": "Relativamente à transmissão de uma doença dominante, ligada ao X:",
+    "options": {
+      "A": "Uma mãe portadora pode dar origem a filhas com a característica ou a filhos portadores",
+      "B": "Um pai afetado dá sempre origem a filhos portadores que não manifestam, mas que a transmitem às filhas",
+      "C": "Só afeta e é transmitida por mulheres",
+      "D": "Cada mulher com característica pode tê-la herdado do pal ou da mãe",
+      "E": "Um homem afetado tem obrigatoriamente um pal também afetado"
+    }
+  },
+  "33": {
+    "id": 33,
+    "source": "Frequência",
+    "question": "A adição de primers é necessária quer na replicação in vivo quer em reações de PCR (reação da\npolimerase em cadeia) porque:",
+    "options": {
+      "A": "a DNA polimerase pode não ser termostável",
+      "B": "só se copia uma das cadejas de DNA",
+      "C": "a DNA polimerase não consegue iniciar cadelas",
+      "D": "é necessário sintetizar os 3 principais tipos de RNA",
+      "E": "a helicase tem que separar as cadeias de DNA"
+    }
+  },
+  "34": {
+    "id": 34,
+    "source": "Frequência",
+    "question": "A seguinte informação \"O DNA replica-se, é transcrito em RNA e este traduzido em proteínas\" traduz:",
+    "options": {
+      "A": "o código genético",
+      "B": "o fluxo da informação genética na célula",
+      "C": "a evolução das células procarióticas",
+      "D": "o mecanismo que antecede a produção de energia nas células",
+      "E": "o processamento pós-traducional de proteínas"
+    }
+  },
+  "35": {
+    "id": 35,
+    "source": "Frequência",
+    "question": "Relativamente às síndromes de quebras cromossómicas",
+    "options": {
+      "A": "Estão relacionadas com alterações na capacidade de reparação do DNA",
+      "B": "Estão relacionadas com o cromossoma Y (Y-frágil)",
+      "C": "Estão relacionadas com a inativação do X",
+      "D": "Resultam sempre em situações de mosaicismo",
+      "E": "Resultam sempre em situações de quimerismo"
+    }
+  },
+  "101": {
+    "id": 101,
+    "source": "ChatGPT",
+    "question": "Durante a replicação do DNA, a síntese da cadeia descontínua ocorre porque:",
+    "options": {
+      "A": "a DNA polimerase só atua em sentido 3'→5'",
+      "B": "a helicase impede a síntese contínua",
+      "C": "as duas cadeias são copiadas simultaneamente",
+      "D": "as DNA polimerases só sintetizam DNA no sentido 5'→3'",
+      "E": "a primase é inativa na cadeia líder"
+    }
+  },
+  "102": {
+    "id": 102,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes afirmações distingue corretamente transcrição de tradução?",
+    "options": {
+      "A": "A transcrição ocorre nos ribossomas",
+      "B": "A tradução produz RNA mensageiro",
+      "C": "A transcrição utiliza DNA como molde",
+      "D": "A tradução ocorre no núcleo",
+      "E": "Ambos os processos utilizam DNA polimerase"
+    }
+  },
+  "103": {
+    "id": 103,
+    "source": "ChatGPT",
+    "question": "Os microtúbulos têm um papel essencial na célula porque:",
+    "options": {
+      "A": "são responsáveis pela contração muscular",
+      "B": "formam o fuso mitótico",
+      "C": "estão envolvidos na síntese proteica",
+      "D": "mantêm o pH citoplasmático",
+      "E": "participam na glicosilação"
+    }
+  },
+  "104": {
+    "id": 104,
+    "source": "ChatGPT",
+    "question": "A fluidez da membrana plasmática diminui quando:",
+    "options": {
+      "A": "aumenta a temperatura",
+      "B": "aumenta a proporção de ácidos gordos insaturados",
+      "C": "aumenta o comprimento dos ácidos gordos",
+      "D": "diminui o grau de saturação",
+      "E": "diminui a quantidade de colesterol"
+    }
+  },
+  "105": {
+    "id": 105,
+    "source": "ChatGPT",
+    "question": "Qual o principal papel da primase na replicação do DNA?",
+    "options": {
+      "A": "Separar as cadeias de DNA",
+      "B": "Ligar fragmentos de Okazaki",
+      "C": "Sintetizar primers de RNA",
+      "D": "Corrigir erros de replicação",
+      "E": "Desenrolar a dupla hélice"
+    }
+  },
+  "106": {
+    "id": 106,
+    "source": "ChatGPT",
+    "question": "Um transporte que ocorre sem gasto direto de energia e a favor do gradiente denomina-se:",
+    "options": {
+      "A": "transporte ativo secundário",
+      "B": "endocitose",
+      "C": "difusão simples",
+      "D": "transporte ativo primário",
+      "E": "antiporte"
+    }
+  },
+  "107": {
+    "id": 107,
+    "source": "ChatGPT",
+    "question": "Em que fase do ciclo celular ocorre a replicação do DNA?",
+    "options": {
+      "A": "G1",
+      "B": "G2",
+      "C": "Mitose",
+      "D": "Fase S",
+      "E": "Citocinese"
+    }
+  },
+  "108": {
+    "id": 108,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes estruturas está diretamente envolvida na citocinese?",
+    "options": {
+      "A": "Centríolos",
+      "B": "Microfilamentos",
+      "C": "Microtúbulos",
+      "D": "Filamentos intermédios",
+      "E": "Ribossomas"
+    }
+  },
+  "109": {
+    "id": 109,
+    "source": "ChatGPT",
+    "question": "Relativamente ao mRNA eucariótico maduro, é correto afirmar que:",
+    "options": {
+      "A": "não possui intrões",
+      "B": "não possui exões",
+      "C": "é traduzido no núcleo",
+      "D": "não sofre modificações pós-transcricionais",
+      "E": "é sintetizado por ribossomas"
+    }
+  },
+  "110": {
+    "id": 110,
+    "source": "ChatGPT",
+    "question": "A presença de colesterol na membrana plasmática tem como função principal:",
+    "options": {
+      "A": "impedir a difusão de gases",
+      "B": "aumentar a permeabilidade",
+      "C": "aumentar a fluidez em temperaturas baixas",
+      "D": "permitir transporte ativo",
+      "E": "substituir fosfolípidos"
+    }
+  },
+  "111": {
+    "id": 111,
+    "source": "ChatGPT",
+    "question": "Num cruzamento entre dois indivíduos do grupo sanguíneo A heterozigóticos (IAi), qual a probabilidade de nascer um descendente do grupo O?",
+    "options": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%",
+      "E": "100%"
+    }
+  },
+  "112": {
+    "id": 112,
+    "source": "ChatGPT",
+    "question": "Uma mutação nonsense caracteriza-se por:",
+    "options": {
+      "A": "não alterar o aminoácido",
+      "B": "alterar um aminoácido sem efeito funcional",
+      "C": "originar um codão stop prematuro",
+      "D": "ocorrer apenas em regiões não codificantes",
+      "E": "afetar apenas intrões"
+    }
+  },
+  "113": {
+    "id": 113,
+    "source": "ChatGPT",
+    "question": "A meiose distingue-se da mitose porque:",
+    "options": {
+      "A": "origina células diploides",
+      "B": "mantém o número de cromossomas",
+      "C": "inclui emparelhamento de cromossomas homólogos",
+      "D": "ocorre em células somáticas",
+      "E": "não contribui para variabilidade genética"
+    }
+  },
+  "114": {
+    "id": 114,
+    "source": "ChatGPT",
+    "question": "A inativação do cromossoma X ocorre:",
+    "options": {
+      "A": "em todos os cromossomas sexuais",
+      "B": "apenas em homens",
+      "C": "de forma aleatória nas células femininas",
+      "D": "apenas durante a mitose",
+      "E": "apenas em células germinativas"
+    }
+  },
+  "115": {
+    "id": 115,
+    "source": "ChatGPT",
+    "question": "Um gene supressor de tumor atua normalmente:",
+    "options": {
+      "A": "promovendo a divisão celular",
+      "B": "inibindo mecanismos de reparação do DNA",
+      "C": "impedindo a progressão do ciclo celular",
+      "D": "ativando oncogenes",
+      "E": "induzindo mutações dinâmicas"
+    }
+  },
+  "116": {
+    "id": 116,
+    "source": "ChatGPT",
+    "question": "Um indivíduo com genótipo Rh negativo apresenta:",
+    "options": {
+      "A": "antigénios Rh na membrana dos eritrócitos",
+      "B": "anticorpos anti-Rh naturais",
+      "C": "ausência do antigénio D",
+      "D": "necessidade de transfusões frequentes",
+      "E": "grupo sanguíneo O obrigatório"
+    }
+  },
+  "117": {
+    "id": 117,
+    "source": "ChatGPT",
+    "question": "Durante a prófase I da meiose ocorre:",
+    "options": {
+      "A": "separação de cromatídeos irmãos",
+      "B": "replicação do DNA",
+      "C": "crossing-over entre cromossomas homólogos",
+      "D": "formação da placa metafásica",
+      "E": "citocinese"
+    }
+  },
+  "118": {
+    "id": 118,
+    "source": "ChatGPT",
+    "question": "Uma mutação silenciosa é assim designada porque:",
+    "options": {
+      "A": "não altera o DNA",
+      "B": "ocorre apenas em intrões",
+      "C": "não altera o aminoácido codificado",
+      "D": "impede a tradução",
+      "E": "gera uma proteína truncada"
+    }
+  },
+  "119": {
+    "id": 119,
+    "source": "ChatGPT",
+    "question": "Relativamente ao imprinting genómico, é correto afirmar que:",
+    "options": {
+      "A": "ambos os alelos são sempre expressos",
+      "B": "depende da origem parental do alelo",
+      "C": "ocorre apenas no cromossoma X",
+      "D": "é reversível em células somáticas",
+      "E": "é causado por mutações pontuais"
+    }
+  },
+  "120": {
+    "id": 120,
+    "source": "ChatGPT",
+    "question": "A perda de heterozigotia está associada principalmente a:",
+    "options": {
+      "A": "ativação de oncogenes",
+      "B": "inativação de genes supressores de tumor",
+      "C": "mutação silenciosa",
+      "D": "transmissão mitocondrial",
+      "E": "herança ligada ao X"
+    }
+  },
+  "121": {
+    "id": 121,
+    "source": "ChatGPT",
+    "question": "Uma disfunção nos lisossomas pode levar principalmente a:",
+    "options": {
+      "A": "falhas na replicação do DNA",
+      "B": "acumulação de resíduos no interior da célula",
+      "C": "diminuição da síntese proteica",
+      "D": "alterações na transcrição",
+      "E": "falhas na mitose"
+    }
+  },
+  "122": {
+    "id": 122,
+    "source": "ChatGPT",
+    "question": "O complexo de Golgi distingue-se do retículo endoplasmático porque:",
+    "options": {
+      "A": "possui ribossomas associados",
+      "B": "é responsável pela tradução proteica",
+      "C": "realiza modificações pós-traducionais",
+      "D": "é contínuo com a membrana nuclear",
+      "E": "possui DNA próprio"
+    }
+  },
+  "123": {
+    "id": 123,
+    "source": "ChatGPT",
+    "question": "De acordo com a teoria endossimbiótica, uma evidência a favor da origem das mitocôndrias é:",
+    "options": {
+      "A": "a presença de dupla membrana",
+      "B": "ligação ao retículo endoplasmático",
+      "C": "ausência de ribossomas",
+      "D": "ocorrência apenas em células eucarióticas",
+      "E": "dependência total do núcleo"
+    }
+  },
+  "124": {
+    "id": 124,
+    "source": "ChatGPT",
+    "question": "Uma função essencial da matriz extracelular é:",
+    "options": {
+      "A": "armazenar ATP",
+      "B": "regular a expressão génica celular",
+      "C": "realizar digestão intracelular",
+      "D": "produzir energia",
+      "E": "substituir o citoesqueleto"
+    }
+  },
+  "125": {
+    "id": 125,
+    "source": "ChatGPT",
+    "question": "As integrinas são importantes porque:",
+    "options": {
+      "A": "degradam componentes da matriz extracelular",
+      "B": "atuam como enzimas digestivas",
+      "C": "ligam a matriz extracelular ao citoesqueleto",
+      "D": "produzem colagénio",
+      "E": "substituem proteínas do Golgi"
+    }
+  },
+  "126": {
+    "id": 126,
+    "source": "ChatGPT",
+    "question": "O transporte vesicular entre o retículo endoplasmático e o Golgi ocorre principalmente através de:",
+    "options": {
+      "A": "difusão simples",
+      "B": "transporte ativo secundário",
+      "C": "vesículas",
+      "D": "canal iónico",
+      "E": "osmose"
+    }
+  },
+  "127": {
+    "id": 127,
+    "source": "ChatGPT",
+    "question": "A exocitose é um processo celular que permite:",
+    "options": {
+      "A": "entrada de substâncias grandes na célula",
+      "B": "eliminação de substâncias para o exterior",
+      "C": "difusão de gases",
+      "D": "transporte contra gradiente sem energia",
+      "E": "transporte de iões por canais"
+    }
+  },
+  "128": {
+    "id": 128,
+    "source": "ChatGPT",
+    "question": "A composição lipídica da membrana plasmática influencia diretamente:",
+    "options": {
+      "A": "a sequência do DNA",
+      "B": "a atividade ribossómica",
+      "C": "a fluidez da membrana",
+      "D": "a replicação do DNA",
+      "E": "a transcrição génica"
+    }
+  },
+  "129": {
+    "id": 129,
+    "source": "ChatGPT",
+    "question": "Uma alteração na glicosilação de proteínas afetaria principalmente:",
+    "options": {
+      "A": "a estrutura do DNA",
+      "B": "a estabilidade dos microtúbulos",
+      "C": "o reconhecimento celular",
+      "D": "a tradução do mRNA",
+      "E": "a síntese de ATP"
+    }
+  },
+  "130": {
+    "id": 130,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes estruturas NÃO participa diretamente no transporte intracelular de proteínas?",
+    "options": {
+      "A": "retículo endoplasmático",
+      "B": "complexo de Golgi",
+      "C": "lisossomas",
+      "D": "ribossomas",
+      "E": "vesículas"
+    }
+  },
+  "131": {
+    "id": 131,
+    "source": "ChatGPT",
+    "question": "Um exemplo de transporte ativo primário é:",
+    "options": {
+      "A": "difusão facilitada",
+      "B": "transporte de glicose por GLUT",
+      "C": "transporte de Na+ pela bomba Na+/K+",
+      "D": "osmose",
+      "E": "endocitose"
+    }
+  },
+  "132": {
+    "id": 132,
+    "source": "ChatGPT",
+    "question": "A ativação de um recetor de membrana pode levar a:",
+    "options": {
+      "A": "alterações na sequência do DNA",
+      "B": "produção imediata de ATP",
+      "C": "ativação de cascatas de sinalização intracelular",
+      "D": "inibição permanente da transcrição",
+      "E": "destruição do recetor"
+    }
+  },
+  "133": {
+    "id": 133,
+    "source": "ChatGPT",
+    "question": "Os filamentos intermédios diferenciam-se dos microtúbulos porque:",
+    "options": {
+      "A": "são polarizados",
+      "B": "participam no fuso mitótico",
+      "C": "conferem resistência mecânica à célula",
+      "D": "transportam vesículas",
+      "E": "participam na citocinese"
+    }
+  },
+  "134": {
+    "id": 134,
+    "source": "ChatGPT",
+    "question": "A progressão do ciclo celular é regulada principalmente por:",
+    "options": {
+      "A": "DNA polimerases",
+      "B": "hormonas esteróides",
+      "C": "ciclinas e cinases dependentes de ciclinas",
+      "D": "ribossomas",
+      "E": "integrinas"
+    }
+  },
+  "135": {
+    "id": 135,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes situações ocorre apenas na meiose e não na mitose?",
+    "options": {
+      "A": "replicação do DNA",
+      "B": "citocinese",
+      "C": "separação de cromatídeos irmãos",
+      "D": "emparelhamento de cromossomas homólogos",
+      "E": "formação do fuso mitótico"
+    }
+  },
+  "136": {
+    "id": 136,
+    "source": "ChatGPT",
+    "question": "Uma falha nos checkpoints do ciclo celular pode resultar em:",
+    "options": {
+      "A": "diminuição da variabilidade genética",
+      "B": "paragem definitiva da tradução",
+      "C": "proliferação celular descontrolada",
+      "D": "redução da fluidez da membrana",
+      "E": "inibição da mitose"
+    }
+  },
+  "137": {
+    "id": 137,
+    "source": "ChatGPT",
+    "question": "O transporte por antiporte caracteriza-se por:",
+    "options": {
+      "A": "movimento de uma substância contra o gradiente",
+      "B": "movimento simultâneo de duas substâncias na mesma direção",
+      "C": "movimento de duas substâncias em direções opostas",
+      "D": "transporte sem proteínas",
+      "E": "gasto direto de ATP"
+    }
+  },
+  "138": {
+    "id": 138,
+    "source": "ChatGPT",
+    "question": "A fosforilação de proteínas numa via de sinalização tem como efeito principal:",
+    "options": {
+      "A": "destruir a proteína",
+      "B": "alterar a atividade da proteína",
+      "C": "impedir a tradução",
+      "D": "modificar o DNA",
+      "E": "inibir permanentemente o recetor"
+    }
+  },
+  "139": {
+    "id": 139,
+    "source": "ChatGPT",
+    "question": "Os microfilamentos de actina estão diretamente envolvidos em:",
+    "options": {
+      "A": "transporte axonal",
+      "B": "formação do fuso mitótico",
+      "C": "movimentos celulares e citocinese",
+      "D": "armazenamento de energia",
+      "E": "síntese de proteínas"
+    }
+  },
+  "140": {
+    "id": 140,
+    "source": "ChatGPT",
+    "question": "Uma característica comum às células tumorais é:",
+    "options": {
+      "A": "crescimento dependente de fatores externos",
+      "B": "paragem do ciclo celular em G1",
+      "C": "alteração dos mecanismos de controlo do ciclo celular",
+      "D": "ausência de mutações",
+      "E": "inibição da angiogénese"
+    }
+  },
+  "141": {
+    "id": 141,
+    "source": "ChatGPT",
+    "question": "Uma mutação missense distingue-se de uma mutação nonsense porque:",
+    "options": {
+      "A": "não altera o DNA",
+      "B": "não altera o aminoácido",
+      "C": "origina um aminoácido diferente",
+      "D": "introduz um codão stop",
+      "E": "ocorre apenas em intrões"
+    }
+  },
+  "142": {
+    "id": 142,
+    "source": "ChatGPT",
+    "question": "O código genético é considerado degenerado porque:",
+    "options": {
+      "A": "existem mais aminoácidos que codões",
+      "B": "um codão pode codificar vários aminoácidos",
+      "C": "vários codões podem codificar o mesmo aminoácido",
+      "D": "os codões variam entre espécies",
+      "E": "apenas existe em eucariotas"
+    }
+  },
+  "143": {
+    "id": 143,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes NÃO é uma evidência da teoria endossimbiótica?",
+    "options": {
+      "A": "DNA próprio nas mitocôndrias",
+      "B": "ribossomas semelhantes aos bacterianos",
+      "C": "replicação independente do núcleo",
+      "D": "origem a partir do retículo endoplasmático",
+      "E": "dupla membrana"
+    }
+  },
+  "144": {
+    "id": 144,
+    "source": "ChatGPT",
+    "question": "Uma herança recessiva ligada ao X caracteriza-se por:",
+    "options": {
+      "A": "afetar mais frequentemente mulheres",
+      "B": "ser transmitida de pai para filho",
+      "C": "manifestar-se mais frequentemente em homens",
+      "D": "não existir em mulheres",
+      "E": "depender de imprinting genómico"
+    }
+  },
+  "145": {
+    "id": 145,
+    "source": "ChatGPT",
+    "question": "Uma mutação que ocorre numa célula somática:",
+    "options": {
+      "A": "é herdada pela descendência",
+      "B": "afeta todas as células do organismo",
+      "C": "é transmitida aos gâmetas",
+      "D": "afeta apenas o indivíduo",
+      "E": "altera o genoma germinativo"
+    }
+  },
+  "146": {
+    "id": 146,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes afirmações sobre mutações silenciosas é correta?",
+    "options": {
+      "A": "não alteram a sequência do DNA",
+      "B": "ocorrem apenas em intrões",
+      "C": "alteram o codão mas não o aminoácido",
+      "D": "originam proteínas truncadas",
+      "E": "impedem a tradução"
+    }
+  },
+  "147": {
+    "id": 147,
+    "source": "ChatGPT",
+    "question": "A ausência de reparação adequada do DNA pode levar diretamente a:",
+    "options": {
+      "A": "diminuição da taxa metabólica",
+      "B": "eliminação de oncogenes",
+      "C": "instabilidade genómica",
+      "D": "paragem definitiva da mitose",
+      "E": "inibição da transcrição"
+    }
+  },
+  "148": {
+    "id": 148,
+    "source": "ChatGPT",
+    "question": "Um indivíduo heterozigótico para uma característica dominante:",
+    "options": {
+      "A": "não manifesta a característica",
+      "B": "manifesta sempre a característica",
+      "C": "manifesta apenas em presença de fatores ambientais",
+      "D": "não a transmite à descendência",
+      "E": "pode transmiti-la apenas a filhas"
+    }
+  },
+  "149": {
+    "id": 149,
+    "source": "ChatGPT",
+    "question": "Qual das seguintes situações aumenta a variabilidade genética?",
+    "options": {
+      "A": "mitose",
+      "B": "replicação do DNA",
+      "C": "segregação independente dos cromossomas",
+      "D": "tradução proteica",
+      "E": "transcrição"
+    }
+  },
+  "150": {
+    "id": 150,
+    "source": "ChatGPT",
+    "question": "A ativação permanente de oncogenes está mais diretamente associada a:",
+    "options": {
+      "A": "diminuição da divisão celular",
+      "B": "bloqueio do ciclo celular",
+      "C": "proliferação celular excessiva",
+      "D": "reparação eficiente do DNA",
+      "E": "apoptose aumentada"
+    }
+  }
+}
